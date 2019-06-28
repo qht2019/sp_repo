@@ -21,6 +21,7 @@ import com.tedu.web.util.JsonResult;
 public class FeignController {
 	//我爱你
 	//22222222222
+	//555
 	@Autowired
 	private ItemFeignService itemServcie;
 	@Autowired
