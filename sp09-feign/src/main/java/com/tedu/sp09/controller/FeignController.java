@@ -22,6 +22,8 @@ public class FeignController {
 	//我爱你
 	//22222222222
 	//555
+	
+	//333333333333
 	@Autowired
 	private ItemFeignService itemServcie;
 	@Autowired
